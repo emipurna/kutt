@@ -28,14 +28,12 @@ https://railway.com/dashboard
 - masukkan " kutt/kutt " di bagian "What would you like to deploy today?"
 - Lalu tekan enter pada keyboard
 
-  Railway akan melakukan setup dan deploy secara otomatis, sisanya kita hanya perlu mengkonfigurasi variabel agar websitenya berjalan sesuai keingin kita
-  
-
+  Railway akan melakukan setup dan deploy secara otomatis, sisanya kita hanya perlu mengkonfigurasi variabel agar websitenya berjalan sesuai keingin kita.
 
 
 ## Konfigurasi
 
-Kita perlu setting beberapa variabel agar website dapat berjalan dengan baik, untuk list lengkap variabel yang bisa diatur di website kutt.it dokumentasinya dapat diakses pada link berikut
+Kita perlu setting beberapa variabel agar website dapat berjalan dengan baik, untuk list lengkap variabel yang bisa diatur di website kutt.it dokumentasinya dapat diakses pada link berikut:
 [https://github.com/thedevs-network/kutt?tab=readme-ov-file#configuration]
 
 ``` Contoh konfigurasi variable:
@@ -57,13 +55,14 @@ Anda dapat mengatur variable yang ada sesuai dengan preferensi anda sebagai konf
 
 ## Deploy
 Setelah anda selesai mengatur variabel anda dapat langsung mendeploy aplikasi kutt yang sudah anda konfigurasi dan railway akan menjalankan semua setup sesuai dengan konfigurasi yang telah anda buat.
+
 <img width="1267" height="722" alt="Gambar Petunjuk Deploy Aplikasi di Project Railway" src="https://github.com/user-attachments/assets/49528a5d-6e73-42ca-a3a5-b66765470a7f" />
 Tekan "Deploy the image kutt/kutt" untuk mendeploy aplikasi
 
-Kalau deploy berhasil akan muncul tampilan seperti ini
+Kalau deploy berhasil akan muncul tampilan seperti ini:
 <img width="1207" height="696" alt="image" src="https://github.com/user-attachments/assets/cc4b98c8-f002-4bde-9b18-9efe8b616d91" />
 
-Selamat Website anda telah berhasil dideploy
+Selamat Website aplikasi kutt anda telah berhasil dideploy.
 
 
 ## Cara Pemakaian
@@ -80,7 +79,7 @@ Setelah pembuatan akun selesai anda dapat melakukan login menggunakan akun admin
 
 -Sebagai user
 Sebagai user anda dapat mengakses aplikasi ini dengan dua cara tergantung konfigurasi aplikasinya
-   - Dengan akun:
+   - Sebagai user dengan akun:
       - login atau register terlebih dahulu ke website
       - setelah berhasil anda akan masuk ke dashboard utama
       - anda bisa langsung memendekkan url dengan cara memasukkan link yang ingin anda pendekkan ke kotak yang paling besar di tengah lalu tekan enter dan link shortened akan muncul di atas kotak dan dapat dicopy dengan cara menekan link dengan kursor
@@ -89,8 +88,9 @@ Sebagai user anda dapat mengakses aplikasi ini dengan dua cara tergantung konfig
 
       - anda dapat mengaktifkan show advanced option untuk mengatur setting shorten url lebih detil sesuai preferensi anda (password, nama custom link, waktu expire, dan deskripsi)
         <img width="1624" height="671" alt="image" src="https://github.com/user-attachments/assets/6e2968b9-4354-4d3d-b6e4-f1ae9dea0b3f" />
+        
    -Sebagai User Anonim
-      Jika aplikasi mengizinkan user anonim maka anda dapat langsung memendekkan link seperti halnya user dengan akun tanpa harus login, namun anda harus berhati-hati karena history link yang anda buat mungkin bisa hilang kalau anda meninggalkan website maka pastikan anda menyimpan link sesuai kebutuhan anda
+    -Jika aplikasi mengizinkan user anonim maka anda dapat langsung memendekkan link seperti halnya user dengan akun tanpa harus login, namun anda harus berhati-hati karena history link yang anda buat mungkin bisa hilang kalau anda meninggalkan website maka pastikan anda menyimpan link sesuai kebutuhan anda.
         
 
 
