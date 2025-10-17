@@ -9,7 +9,7 @@ Kutt adalah sebuah aplikasi web untuk memendekkan URL yang sifatnya open-source.
 
 - Link Docker
   
-     https://hub.docker.com/r/kutt/kutt
+https://hub.docker.com/r/kutt/kutt
   
   Jika anda ingin melakukan instalasi via dockernya secara langsung anda dapat mengaksesnya pada link tersebut, namun karena kali ini kita akan menggunakan railway sebagai platform hostnya maka kita sebenarnya tidak perlu menggunakan docker secara manual, semuanya akan disiapkan oleh railway dan kita hanya perlu konfigurasi variabel yang diperlukan nantinya
   
