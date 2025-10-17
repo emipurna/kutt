@@ -38,7 +38,7 @@ https://railway.com/dashboard
 Kita perlu setting beberapa variabel agar website dapat berjalan dengan baik, untuk list lengkap variabel yang bisa diatur di website kutt.it dokumentasinya dapat diakses pada link berikut
 [https://github.com/thedevs-network/kutt?tab=readme-ov-file#configuration]
 
-Contoh konfigurasi variable:
+``` Contoh konfigurasi variable:
 
 DB_FILENAME="/var/lib/kutt/data.sqlite" //mengatur nama db yang akan kita pakai kebetukan kutt bisa menggunakan sqlite yang sangat memudahkan disini jadinya tidak perlu setup database tambahan lagi
 DEFAULT_DOMAIN="https://kutt-kdjk-kel1-kiv.up.railway.app" //link default domainnya
@@ -52,7 +52,7 @@ MAILER_SMTP_PASS="" //alamat email untuk mengirim password
 MAILER_FROM="" //alamat email pengirim registrasi
 MAILER_SECURE="" //apakah email menggunakan ssl secure atau tidak
 MAIL_ENABLED="true" //apakah fitur email untuk registrasi dan reset password aktif atau tidak
-
+```
 Anda dapat mengatur variable yang ada sesuai dengan preferensi anda sebagai konfigurasi untuk aplikasi ini, setelah anda selesai mengganti variabel jangan lupa restart/redeploy aplikasinya di dashboard railway.
 
 ## Deploy
