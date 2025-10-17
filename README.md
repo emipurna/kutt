@@ -83,14 +83,14 @@ Sebagai user anda dapat mengakses aplikasi ini dengan dua cara tergantung konfig
       - login atau register terlebih dahulu ke website
       - setelah berhasil anda akan masuk ke dashboard utama
       - anda bisa langsung memendekkan url dengan cara memasukkan link yang ingin anda pendekkan ke kotak yang paling besar di tengah lalu tekan enter dan link shortened akan muncul di atas kotak dan dapat dicopy dengan cara menekan link dengan kursor
-        <img width="1916" height="668" alt="image" src="https://github.com/user-attachments/assets/d6c9d1c8-5c3a-4a8a-b60b-5854c8540e6e" />
-        <img width="1732" height="483" alt="image" src="https://github.com/user-attachments/assets/e041cecf-f83c-4175-a77f-453963d48be6" />
+<img width="1916" height="668" alt="image" src="https://github.com/user-attachments/assets/d6c9d1c8-5c3a-4a8a-b60b-5854c8540e6e" />
+<img width="1732" height="483" alt="image" src="https://github.com/user-attachments/assets/e041cecf-f83c-4175-a77f-453963d48be6" />
 
       - anda dapat mengaktifkan show advanced option untuk mengatur setting shorten url lebih detil sesuai preferensi anda (password, nama custom link, waktu expire, dan deskripsi)
-        <img width="1624" height="671" alt="image" src="https://github.com/user-attachments/assets/6e2968b9-4354-4d3d-b6e4-f1ae9dea0b3f" />
+<img width="1624" height="671" alt="image" src="https://github.com/user-attachments/assets/6e2968b9-4354-4d3d-b6e4-f1ae9dea0b3f" />
         
-   -Sebagai User Anonim
-    -Jika aplikasi mengizinkan user anonim maka anda dapat langsung memendekkan link seperti halnya user dengan akun tanpa harus login, namun anda harus berhati-hati karena history link yang anda buat mungkin bisa hilang kalau anda meninggalkan website maka pastikan anda menyimpan link sesuai kebutuhan anda.
+   - Sebagai User Anonim
+     Jika aplikasi mengizinkan user anonim maka anda dapat langsung memendekkan link seperti halnya user dengan akun tanpa harus login, namun anda harus berhati-hati karena history link yang anda buat mungkin bisa hilang kalau anda meninggalkan website maka pastikan anda menyimpan link sesuai kebutuhan anda.
         
 
 
