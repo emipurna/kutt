@@ -97,12 +97,22 @@ Sebagai user anda dapat mengakses aplikasi ini dengan dua cara tergantung konfig
 
 ## Pembahasan
 
-- Pendapat anda tentang aplikasi web ini
-    - kelebihan
-    - kekurangan
-- Bandingkan dengan aplikasi web lain yang sejenis
+- Pendapat Tentang Aplikasi
+  Kutts memiliki Beberapa Keunggulan utama, terutama untuk pembuatan tautan yang sudah di kostumisasi. Kutts juga memiliki fitur keamanan yang terjamin, serta memiliki fitur kadaluarsa. Agar link yang tidak digunakan, tidak dapat diakses lagi. Kutts juga memiliki fitur analitik dan manajemen(Edit, Hapus, Lihat).
+  Disisi lain, Kutts memiliki beberapa kekurangan. Karena Kutts bersifat self hosted, teknisi perlu melakukan setup dan pemeliharaan server secara manual atau dilakukan sendiri. Fitur Analitik yang dimiliki oleh Kutts juga sangat terbatas. Kutts hanya memiliki beberapa fitur seperti jumlah klik, asal kunjungan, dan waktu akses. Kutts juga masih memiliki keterbatasan dalam akses terhadap fitur fitur lanjutan
+  
+- Perbandingan Dengan Aplikasi Sejenis
+
+Beberapa aplikasi sejenis yang memiliki beberapa fitur yang bersaing dengan aplikasi kutt adalah Bitly, Rebrandly, dan YOURLS. Fitur utama yang ditawarkan oleh Kutt adalah Kutt bersifat Open source, dan dapat di hosting sendiri. Kutt juga menawarkan kontrol penuh, kemudahan deployment, serta fitur yang modern. Kutt sangat cocok untuk digunakan oleh developer atau organisasi skala kecil.
+  
+  Aplikasi kedua adalah Bitly, merupakan platform SaaS Populer yang dilengkapi dengan fitu analitik mendalam. memiliki fitur integrasi yang luas, serta tingkat keandalan yang tinggi. Bitly cocok untuk digunakan bagi perusahaan skala besar, ataupun tim pemasaran yang memerlukan analisa yang profesional dan memiliki performa yang stabil. Dengan berbagai fitur premium, Bitly menawarkan layanannya dengan harga yang dibandrol cukup tinggi.
+
+  Aplikasi ke tiga adalah Rebrandly, berfokus pada bidang branding dan marketing. Dengan berbagai fitur andal seperti custom domain, analitik, dan integrasi alat pemasaran. Rebrandly cocok untuk digunakan pada perusahaan dan brand yang menekankan pada konsistensi identitas dan pelacakan kampanye digital.
+
+  Aplikasi terakhir adalah YOURLS, sama sama Open Source dan Self hosted. Sehingga memberikan kontrol penuh terhadap data serta memiliki fleksibilitas yang tinggi. Hal ini dapat dicapai melalui plugin dan API yang ada. YOURLS cocok untuk pengguna teknis atau organisasi kecil yang ingin membangun sistem pemendek link sendiri tanpa bergantung pada layanan pihak ketiga. 
 
 
 ## Referensi
 
-Cantumkan tiap sumber informasi yang anda pakai.
+https://hub.docker.com/r/kutt/kutt
+https://github.com/thedevs-network/kutt
