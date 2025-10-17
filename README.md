@@ -98,7 +98,9 @@ Sebagai user anda dapat mengakses aplikasi ini dengan dua cara tergantung konfig
 ## Pembahasan
 
 - Pendapat Tentang Aplikasi
+  
   Kutts memiliki Beberapa Keunggulan utama, terutama untuk pembuatan tautan yang sudah di kostumisasi. Kutts juga memiliki fitur keamanan yang terjamin, serta memiliki fitur kadaluarsa. Agar link yang tidak digunakan, tidak dapat diakses lagi. Kutts juga memiliki fitur analitik dan manajemen(Edit, Hapus, Lihat).
+
   Disisi lain, Kutts memiliki beberapa kekurangan. Karena Kutts bersifat self hosted, teknisi perlu melakukan setup dan pemeliharaan server secara manual atau dilakukan sendiri. Fitur Analitik yang dimiliki oleh Kutts juga sangat terbatas. Kutts hanya memiliki beberapa fitur seperti jumlah klik, asal kunjungan, dan waktu akses. Kutts juga masih memiliki keterbatasan dalam akses terhadap fitur fitur lanjutan
   
 - Perbandingan Dengan Aplikasi Sejenis
